@@ -37,8 +37,6 @@ A simple yet powerful Python project to generate and verify One-Time Passwords (
 - Time-limited OTPs
 - GUI for better UX
 
----
-
 > ⚠️ Note: This project simulates email sending. No real emails are dispatched for privacy and testing simplicity.
 
 ## 📫 Connect with me on www.linkedin.com/in/vsirishaofficial
