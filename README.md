@@ -1,6 +1,8 @@
 # OTP-Verification-System
-![hq720](https://github.com/user-attachments/assets/30dbbd3f-a419-4552-b193-5f5343dbc45f)
 A simple yet powerful Python project to generate and verify One-Time Passwords (OTP) via email simulation.
+
+
+![hq720](https://github.com/user-attachments/assets/30dbbd3f-a419-4552-b193-5f5343dbc45f)
 
 ## 📌 Features
 
